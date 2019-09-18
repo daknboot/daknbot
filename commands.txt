@@ -1,0 +1,18 @@
+# daknbot
+
+Command List
+
+Moderation: 
+
+;kick <user> - kicks a mentioned user
+;ban <user> - bans a mentioned user
+
+Fun:
+
+;8b <question> - returns an 8 ball answer
+;pog - pogchamp
+
+Other:
+
+;embed <title> <description> [color] - returns a custom embed
+    
