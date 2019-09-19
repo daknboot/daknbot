@@ -3,3 +3,5 @@
 Info:
 
 Discord bot made by daknboot#0456 using the discord.js library.
+
+pog
