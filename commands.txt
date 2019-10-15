@@ -15,4 +15,4 @@ Fun:
 Other:
 
 ;embed <title> <description> [color] - returns a custom embed
-    
+;avatar - sends the message authors avatar
